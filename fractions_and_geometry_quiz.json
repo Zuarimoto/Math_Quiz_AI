@@ -1,0 +1,497 @@
+[
+    {
+        "question": "What fraction of a square is represented by one of its four congruent triangles formed by its diagonals?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/8"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A circle is divided into 8 equal sectors. What fraction of the circle does each sector represent?",
+        "options": {
+            "A": "1/16",
+            "B": "1/4",
+            "C": "1/6",
+            "D": "1/8"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A rectangle is divided into 5 equal parts. If 2 parts are shaded, what fraction of the rectangle is shaded?",
+        "options": {
+            "A": "2/3",
+            "B": "3/5",
+            "C": "2/5",
+            "D": "1/5"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A pizza is cut into 6 slices. John eats 2 slices. What fraction of the pizza did he eat?",
+        "options": {
+            "A": "1/6",
+            "B": "1/2",
+            "C": "1/3",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A line is divided into 10 equal segments. What fraction represents 3 of these segments?",
+        "options": {
+            "A": "3/7",
+            "B": "1/3",
+            "C": "3/10",
+            "D": "7/10"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "An equilateral triangle is divided into four smaller congruent equilateral triangles. What fraction of the large triangle is one of the smaller triangles?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/5",
+            "D": "1/4"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A square is cut in half diagonally. What fraction of the original square is each triangle?",
+        "options": {
+            "A": "1/4",
+            "B": "1/3",
+            "C": "1/2",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A pie is cut into 12 slices. What fraction represents one slice?",
+        "options": {
+            "A": "1/6",
+            "B": "1/12",
+            "C": "1/4",
+            "D": "1/3"
+        },
+        "answer": "B",
+        "difficulty": "easy"
+    },
+    {
+        "question": "If a shape is divided into fourths, how many equal parts are there?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What fraction of a clock face is represented by the arc between 12 and 3?",
+        "options": {
+            "A": "1/6",
+            "B": "1/2",
+            "C": "1/3",
+            "D": "1/4"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A circle is divided into 5 equal sectors. What fraction of the circle do two sectors represent?",
+        "options": {
+            "A": "2/3",
+            "B": "1/5",
+            "C": "2/5",
+            "D": "1/2"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A rectangle is split into three equal parts. What fraction represents each part?",
+        "options": {
+            "A": "1/2",
+            "B": "1/4",
+            "C": "1/3",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A hexagon is divided into 6 congruent equilateral triangles by lines from the center to each vertex. What fraction of the hexagon is each triangle?",
+        "options": {
+            "A": "1/4",
+            "B": "1/5",
+            "C": "1/6",
+            "D": "1/2"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A shape is divided into eighths. How many equal parts are there?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A flag is divided into 4 equal horizontal stripes. What fraction represents the area of one stripe?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/5",
+            "D": "1/4"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A square is divided into 16 equal smaller squares. If 3 of these smaller squares are shaded, what fraction of the larger square is shaded?",
+        "options": {
+            "A": "1/8",
+            "B": "3/16",
+            "C": "1/4",
+            "D": "3/8"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A rectangle is 2/3 meter long and 1/2 meter wide. What is the area of the rectangle in square meters?",
+        "options": {
+            "A": "1/6",
+            "B": "5/6",
+            "C": "1/3",
+            "D": "7/6"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A circle is cut into 8 equal slices. If John eats 3 slices, what fraction of the circle did he eat?",
+        "options": {
+            "A": "1/8",
+            "B": "3/8",
+            "C": "1/4",
+            "D": "1/2"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A triangle has a base of 5/4 inches and a height of 2 inches. What is the area of the triangle in square inches?",
+        "options": {
+            "A": "5/8",
+            "B": "5/4",
+            "C": "5/2",
+            "D": "7/4"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A line segment is divided into 5 equal parts. What fraction represents the length of 3 of these parts compared to the whole line segment?",
+        "options": {
+            "A": "1/5",
+            "B": "2/5",
+            "C": "3/5",
+            "D": "4/5"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A pizza is cut into 12 slices. If 2/3 of the pizza is eaten, how many slices were eaten?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "9"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A garden is shaped like a square with sides of 3/4 meter. What is the perimeter of the garden in meters?",
+        "options": {
+            "A": "3/16",
+            "B": "3",
+            "C": "12/16",
+            "D": "3/4"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "If a right angle is divided into 3 equal angles, what fraction of a right angle does each smaller angle represent?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/5"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A rectangular park is 1/2 mile long and 1/4 mile wide. What is the distance around the park (perimeter) in miles?",
+        "options": {
+            "A": "3/4",
+            "B": "3/8",
+            "C": "1/8",
+            "D": "1"
+        },
+        "answer": "A",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A shape is made of 2 rectangles. The first is 1/2 inch by 1/4 inch, and the second is 1/4 inch by 1/4 inch. What is the combined area of the shape in square inches?",
+        "options": {
+            "A": "1/32",
+            "B": "2/8",
+            "C": "3/16",
+            "D": "1/2"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Half of a circle is called a semicircle. If a circle has an area of 20 square inches, what is the area of a semicircle cut from it in square inches?",
+        "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "40"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A square has a side length of 2/5 cm. What is the area of the square in square cm?",
+        "options": {
+            "A": "4/5",
+            "B": "4/25",
+            "C": "2/25",
+            "D": "1/5"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "If a 360-degree circle is divided into 9 equal sections, what fraction of the entire circle does each section represent?",
+        "options": {
+            "A": "1/360",
+            "B": "1/4",
+            "C": "1/9",
+            "D": "1/10"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A rectangular prism has a length of 1/2 meter, a width of 1/3 meter, and a height of 1 meter. What is its volume in cubic meters?",
+        "options": {
+            "A": "1/5",
+            "B": "1/6",
+            "C": "5/6",
+            "D": "2/3"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A hexagon is divided into six equal triangles. What fraction of the hexagon's area is the area of one of these triangles?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/6"
+        },
+        "answer": "D",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A square is inscribed in a circle. What fraction of the area of the circle lies outside the square?",
+        "options": {
+            "A": "(\u03c0 - 1)/\u03c0",
+            "B": "(\u03c0 - 2)/\u03c0",
+            "C": "(\u03c0 - \u221a2)/\u03c0",
+            "D": "(\u03c0 - 2\u221a2)/\u03c0"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A rectangle is divided into four smaller rectangles. The areas of three of these rectangles are 6, 15, and 25. If the area of the fourth rectangle is x, find x.",
+        "options": {
+            "A": "2.4",
+            "B": "10",
+            "C": "12.5",
+            "D": "36"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "An equilateral triangle has side length s. A circle is inscribed within it. What fraction of the area of the triangle is not covered by the circle?",
+        "options": {
+            "A": "(\u221a3 - \u03c0/4)/\u221a3",
+            "B": "(\u221a3 - \u03c0/3)/\u221a3",
+            "C": "(\u221a3 - \u03c0)/\u221a3",
+            "D": "(\u221a3 - \u03c0/2)/\u221a3"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A cube has side length 6. What is the fraction of the volume of the cube occupied by the largest sphere that can fit inside it?",
+        "options": {
+            "A": "\u03c0/8",
+            "B": "\u03c0/6",
+            "C": "\u03c0/4",
+            "D": "\u03c0/2"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A regular hexagon is inscribed in a circle. What fraction of the area of the circle lies outside the hexagon?",
+        "options": {
+            "A": "(2\u03c0 - 3\u221a3)/2\u03c0",
+            "B": "(\u03c0 - 3\u221a3)/\u03c0",
+            "C": "(\u03c0 - \u221a3)/\u03c0",
+            "D": "(2\u03c0 - \u221a3)/2\u03c0"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A right triangle has legs of length 3 and 4. A semicircle is drawn with the hypotenuse as diameter. What fraction of the semicircle's area lies outside the triangle?",
+        "options": {
+            "A": "(\u03c0-2)/\u03c0",
+            "B": "(\u03c0-3)/\u03c0",
+            "C": "(\u03c0-6)/\u03c0",
+            "D": "(\u03c0-12)/\u03c0"
+        },
+        "answer": "C",
+        "difficulty": "hard"
+    },
+    {
+        "question": "An isosceles right triangle is formed by cutting a square along its diagonal. A circle is inscribed within the triangle. What fraction of the area of the triangle is not contained within the circle?",
+        "options": {
+            "A": "(4 - \u03c0(3 - 2\u221a2))/4",
+            "B": "(2 - \u03c0(3 - 2\u221a2))/2",
+            "C": "(1 - \u03c0(3 - 2\u221a2))",
+            "D": "(1 - \u03c0(3 - 2\u221a2))/4"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A circle is divided into four sectors whose areas are in the ratio 1:2:3:4. What fraction of the circle's circumference belongs to the smallest sector?",
+        "options": {
+            "A": "1/10",
+            "B": "1/4",
+            "C": "1/5",
+            "D": "1/2"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Two circles with radii 2 and 3 are tangent to each other. A common external tangent is drawn. Find the fraction of the area of the triangle formed by the centers of the circles and the point of intersection of the tangent with the line of centers that lies outside the two circles.",
+        "options": {
+            "A": "(5 - (4\u03c0 + 9\u03c0)/25)/5",
+            "B": "(5 - (4\u03c0 + 9\u03c0)/5)/5",
+            "C": "(5 - (4\u03c0 + 9\u03c0)/10)/5",
+            "D": "(5 - (4\u03c0 + 9\u03c0)/12.5)/5"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A square is divided into 16 equal squares. The four corner squares are shaded. Then the four central squares are shaded. What fraction of the original square is shaded?",
+        "options": {
+            "A": "1/4",
+            "B": "1/2",
+            "C": "5/8",
+            "D": "3/8"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A cone with radius 3 and height 4 is filled with water. What fraction of the cone's volume remains empty when a sphere of radius 2 is placed inside (assuming no water spills)?",
+        "options": {
+            "A": "(36 - 32/3)/(36)",
+            "B": "(144 - 32)/(144)",
+            "C": "(1 - 32\u03c0/108\u03c0)",
+            "D": "(1 - 32/108)"
+        },
+        "answer": "D",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A line segment is divided in the ratio 2:3. If a square is constructed on the smaller segment, and an equilateral triangle on the larger segment, what is the ratio of the area of the square to the area of the triangle?",
+        "options": {
+            "A": "4\u221a3/45",
+            "B": "4/9",
+            "C": "4/15",
+            "D": "45/4\u221a3"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A rectangle has length L and width W. If the length is increased by 20% and the width is decreased by 20%, by what fraction does the area change?",
+        "options": {
+            "A": "Decreases by 4%",
+            "B": "Increases by 4%",
+            "C": "No Change",
+            "D": "Decreases by 20%"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A circle has a radius of 'r'. A square is drawn such that each side of the square is tangent to the circle. A second, larger circle is circumscribed around the square. What fraction represents the area between the two circles compared to the area of the original circle?",
+        "options": {
+            "A": "1",
+            "B": "\u221a2",
+            "C": "2",
+            "D": "1/2"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "An ant walks along the edges of a cube, starting at one vertex. The ant never retraces an edge. What fraction of the edges can the ant traverse before it gets stuck?",
+        "options": {
+            "A": "1/2",
+            "B": "2/3",
+            "C": "5/6",
+            "D": "3/4"
+        },
+        "answer": "C",
+        "difficulty": "hard"
+    }
+]
