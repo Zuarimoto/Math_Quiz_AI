@@ -988,5 +988,500 @@
         },
         "answer": "A",
         "difficulty": "hard"
+    },
+    {
+        "question": "A square is divided into four equal parts. What fraction represents one of those parts?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/5"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A circle is cut in half. What fraction of the circle is each piece?",
+        "options": {
+            "A": "1/4",
+            "B": "1/3",
+            "C": "1/2",
+            "D": "1"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A rectangle is divided into 3 equal parts. Two parts are shaded. What fraction represents the shaded area?",
+        "options": {
+            "A": "1/3",
+            "B": "2/3",
+            "C": "1/2",
+            "D": "3/3"
+        },
+        "answer": "B",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What fraction of a square is shaded if it's divided into two equal triangles and one triangle is shaded?",
+        "options": {
+            "A": "1/3",
+            "B": "2/3",
+            "C": "1/2",
+            "D": "1/4"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A pizza is cut into 8 slices. You eat 1 slice. What fraction of the pizza did you eat?",
+        "options": {
+            "A": "1/4",
+            "B": "1/6",
+            "C": "1/8",
+            "D": "1/2"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "If a rectangle is divided into 5 equal parts, and 4 are colored blue, what fraction is blue?",
+        "options": {
+            "A": "1/5",
+            "B": "2/5",
+            "C": "3/5",
+            "D": "4/5"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A shape is made of 6 equal squares. If 3 are painted red, what fraction are red?",
+        "options": {
+            "A": "1/6",
+            "B": "1/3",
+            "C": "1/2",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What fraction represents the area of a triangle if a rectangle is cut diagonally in half?",
+        "options": {
+            "A": "1/4",
+            "B": "1/3",
+            "C": "1/2",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A hexagon is divided into 6 equal triangles. If 2 triangles are shaded, what fraction is shaded?",
+        "options": {
+            "A": "1/6",
+            "B": "1/4",
+            "C": "1/3",
+            "D": "1/2"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A pie is sliced into 4 equal pieces. What fraction represents three of those pieces?",
+        "options": {
+            "A": "1/4",
+            "B": "1/2",
+            "C": "3/4",
+            "D": "1"
+        },
+        "answer": "C",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A shape is made of 8 equal triangles. 4 are colored. What fraction is colored?",
+        "options": {
+            "A": "1/8",
+            "B": "1/4",
+            "C": "1/3",
+            "D": "1/2"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A shape is divided into ten equal pieces. You take 2 pieces. What fraction of the shape do you have?",
+        "options": {
+            "A": "1/10",
+            "B": "1/5",
+            "C": "1/4",
+            "D": "1/2"
+        },
+        "answer": "B",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What fraction of a rectangle is colored green if it is split into 4 equal rectangles and only one is colored?",
+        "options": {
+            "A": "1/4",
+            "B": "1/3",
+            "C": "1/2",
+            "D": "3/4"
+        },
+        "answer": "A",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A pizza has 6 slices. If you eat 3, what fraction of the pizza did you eat?",
+        "options": {
+            "A": "1/6",
+            "B": "1/4",
+            "C": "1/3",
+            "D": "1/2"
+        },
+        "answer": "D",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A rectangle is divided into 8 equal parts, and 2 are shaded. What fraction represents the shaded area?",
+        "options": {
+            "A": "1/8",
+            "B": "1/4",
+            "C": "1/3",
+            "D": "1/2"
+        },
+        "answer": "B",
+        "difficulty": "easy"
+    },
+    {
+        "question": "A square has a side length of 8 cm. If a smaller square with a side length that is 1/4 of the larger square's side length is cut out from the center, what fraction of the original square's area remains?",
+        "options": {
+            "A": "1/16",
+            "B": "15/16",
+            "C": "1/4",
+            "D": "3/4"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A rectangle is divided into 5 equal sections. If 2 sections are shaded, what fraction of the rectangle's perimeter is represented by the total length of the boundaries of the shaded sections that are also boundaries of the non-shaded sections? Assume length and width are different.",
+        "options": {
+            "A": "2/5",
+            "B": "3/5",
+            "C": "1/3",
+            "D": "Cannot be determined"
+        },
+        "answer": "D",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A circle is divided into 8 equal sectors. If 3 of the sectors are colored blue, what fraction of the circle's area is colored blue?",
+        "options": {
+            "A": "1/8",
+            "B": "3/8",
+            "C": "5/8",
+            "D": "1/3"
+        },
+        "answer": "B",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A right triangle has legs of length 6 and 8. What fraction of the area of a square with side length 10 is equal to the area of the triangle?",
+        "options": {
+            "A": "12/25",
+            "B": "6/25",
+            "C": "3/5",
+            "D": "1/2"
+        },
+        "answer": "A",
+        "difficulty": "medium"
+    },
+    {
+        "question": "An equilateral triangle is divided into four congruent equilateral triangles. What fraction of the original triangle\u2019s area is each smaller triangle?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/8"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A rectangle has a length of 12 cm and a width of 5 cm. If the length is increased by 1/3 and the width remains the same, by what fraction does the area increase?",
+        "options": {
+            "A": "1/3",
+            "B": "1/4",
+            "C": "1/5",
+            "D": "2/5"
+        },
+        "answer": "A",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A line segment is 20 cm long. If it is divided into two segments such that one segment is 3/5 of the total length, how long is the shorter segment?",
+        "options": {
+            "A": "8 cm",
+            "B": "12 cm",
+            "C": "5 cm",
+            "D": "15 cm"
+        },
+        "answer": "A",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A square is inscribed in a circle. What fraction of the circle's area is outside the square? (Assume you know how to calculate area of square and circle)",
+        "options": {
+            "A": "(\u03c0-2)/(2\u03c0)",
+            "B": "(4-\u03c0)/(4\u03c0)",
+            "C": "(\u03c0-2)/\u03c0",
+            "D": "(\u03c0-2)/(4\u03c0)"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A cube is painted blue. The cube is then cut into 27 smaller congruent cubes. What fraction of the smaller cubes have exactly 2 faces painted blue?",
+        "options": {
+            "A": "4/27",
+            "B": "8/27",
+            "C": "12/27",
+            "D": "16/27"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A sector of a circle has a central angle of 90 degrees. What fraction of the circle's area does the sector represent?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/8"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "The angles of a triangle are in the ratio 1:2:3. What fraction of 180 degrees is the largest angle?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/6"
+        },
+        "answer": "A",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A rhombus is divided into four congruent right triangles by its diagonals. If the area of the rhombus is 24, what fraction of the rhombus's area is each triangle?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/6"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A cylinder has a height that is 1/3 of its radius. What fraction represents the ratio of the height to the diameter?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/6",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A regular hexagon is divided into six congruent equilateral triangles by drawing lines from the center to each vertex. What fraction of the hexagon's area does each triangle represent?",
+        "options": {
+            "A": "1/3",
+            "B": "1/4",
+            "C": "1/5",
+            "D": "1/6"
+        },
+        "answer": "D",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A cone has its radius decreased to 1/2 of its original size, while its height remains the same. What fraction of the original cone's volume is the new cone's volume?",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "1/8"
+        },
+        "answer": "C",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A square is inscribed in a circle. What fraction of the area of the circle lies outside the square?",
+        "options": {
+            "A": "(\u03c0 - 1)/\u03c0",
+            "B": "(\u03c0 - 2)/(2\u03c0)",
+            "C": "(\u03c0 - 2)/\u03c0",
+            "D": "(\u03c0 - \u221a2)/\u03c0"
+        },
+        "answer": "C",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A rectangle has length L and width W. If the length is increased by 1/3 and the width is decreased by 1/4, by what fraction does the area of the rectangle change?",
+        "options": {
+            "A": "Increases by 1/12",
+            "B": "Decreases by 1/12",
+            "C": "Increases by 1/4",
+            "D": "Decreases by 1/4"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "An equilateral triangle is inscribed in a circle of radius R. What fraction of the circle's area is occupied by the triangle?",
+        "options": {
+            "A": "(3\u221a3)/(4\u03c0)",
+            "B": "(\u221a3)/(4\u03c0)",
+            "C": "(3\u221a3)/(2\u03c0)",
+            "D": "(\u221a3)/(2\u03c0)"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A regular hexagon is inscribed in a circle. What fraction of the circle's area lies outside the hexagon?",
+        "options": {
+            "A": "(2\u03c0 - 3\u221a3)/(2\u03c0)",
+            "B": "(\u03c0 - 3\u221a3)/(2\u03c0)",
+            "C": "(2\u03c0 - 3\u221a3)/(4\u03c0)",
+            "D": "(4\u03c0 - 3\u221a3)/(4\u03c0)"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A cube has side length s. If each side is increased by 1/2 its original length, by what fraction does the volume increase?",
+        "options": {
+            "A": "19/8",
+            "B": "1/2",
+            "C": "1/8",
+            "D": "15/8"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A right triangle has legs of length a and b. A square is inscribed in the triangle such that one vertex of the square is on the hypotenuse. What fraction of the triangle's area is the area of the square, if the side of the square is s?",
+        "options": {
+            "A": "2s\u00b2/(ab)",
+            "B": "s\u00b2/(ab)",
+            "C": "s\u00b2/(2ab)",
+            "D": "4s\u00b2/(ab)"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A circle is divided into six sectors whose areas are in the ratio 1:2:3:4:5:6. What is the central angle (in degrees) of the smallest sector?",
+        "options": {
+            "A": "30",
+            "B": "20",
+            "C": "15",
+            "D": "24"
+        },
+        "answer": "A",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A square is divided into four congruent squares. One of these squares is then divided into four congruent squares, and this process is repeated indefinitely. What fraction of the original square remains undivded after n steps?",
+        "options": {
+            "A": "(3^n)/(4^n)",
+            "B": "(4^n - 1)/(4^n)",
+            "C": "(1/4)^n",
+            "D": "(3/4)^n"
+        },
+        "answer": "D",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A sector of a circle has radius r and central angle \u03b8 (in radians). If the area of the sector is 1/6 of the circle's area, what is the value of \u03b8?",
+        "options": {
+            "A": "\u03c0/6",
+            "B": "\u03c0/3",
+            "C": "2\u03c0/3",
+            "D": "\u03c0/12"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In a triangle, the altitude to the longest side divides the triangle into two smaller triangles. If the area of the original triangle is A, and the area of one of the smaller triangles is 1/3 A, what is the area of the other smaller triangle?",
+        "options": {
+            "A": "1/6 A",
+            "B": "2/3 A",
+            "C": "1/2 A",
+            "D": "1/4 A"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A circle is inscribed in a square. Then, a square is inscribed in that circle. What fraction of the outer square's area is the inner square's area?",
+        "options": {
+            "A": "1/4",
+            "B": "1/2",
+            "C": "\u221a2/4",
+            "D": "\u221a2/2"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A cone is cut parallel to its base at a height that is 1/3 of the total height. What fraction of the cone's volume is the volume of the smaller cone formed at the top?",
+        "options": {
+            "A": "1/3",
+            "B": "1/9",
+            "C": "1/27",
+            "D": "2/3"
+        },
+        "answer": "C",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A quadrilateral is formed by joining the midpoints of the sides of a square. What fraction of the original square's area is the area of the quadrilateral?",
+        "options": {
+            "A": "1/4",
+            "B": "1/2",
+            "C": "3/4",
+            "D": "1/3"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A square is inscribed in a right triangle with legs of length 6 and 8, such that one vertex of the square coincides with the right angle of the triangle. What fraction of the area of the triangle does the square cover?",
+        "options": {
+            "A": "144/343",
+            "B": "144/245",
+            "C": "36/49",
+            "D": "16/25"
+        },
+        "answer": "B",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A sphere has radius r. What fraction of the volume of the sphere is contained in a cube inscribed within it?",
+        "options": {
+            "A": "(2\u221a3)/(3\u03c0)",
+            "B": "(4\u221a3)/(3\u03c0)",
+            "C": "(8\u221a3)/(9\u03c0)",
+            "D": "(\u03c0\u221a3)/(4)"
+        },
+        "answer": "B",
+        "difficulty": "hard"
     }
 ]
