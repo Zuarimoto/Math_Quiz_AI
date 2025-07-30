@@ -17,4 +17,3 @@ services:
         value: "fractions_and_geometry_quiz.json"
       - key: DEBUG
         value: "True"
-      # Add GOOGLE_API_KEY as a secret in the Render dashboard
