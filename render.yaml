@@ -1,0 +1,20 @@
+services:
+  # A FastAPI web service
+  - type: web
+    name: math-quiz-api
+    env: python
+    plan: free
+    # Directory containing the Dockerfile
+    rootDir: .
+    buildCommand: "pip install -r requirements.txt"
+    # Command to start the web server using Gunicorn and Uvicorn workers
+    startCommand: "gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app -b 0.0.0.0:80"
+    healthCheckPath: /
+    # Environment variables (secrets like API keys should be added in Render dashboard)
+    envVars:
+      # Secrets can be added here or in the Render dashboard
+      - key: JSON_FILE_PATH
+        value: "fractions_and_geometry_quiz.json"
+      - key: DEBUG
+        value: "True"
+      # Add GOOGLE_API_KEY as a secret in the Render dashboard
