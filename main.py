@@ -83,17 +83,17 @@ class UserAnswer(BaseModel):
 quiz_api = FastAPI()
 
 
-def generate_quiz_text_from_ai(topic: str, difficulty: str, num_questions: int = 15):
-    """Generates raw quiz text using the AI model."""
+def generate_single_quiz_text_from_ai(topic: str, difficulty: str):
+    """Generates a single quiz question using the AI model."""
     if model is None:
         logging.warning("AI model not available. Cannot generate quiz.")
         return ""
 
     prompt = f"""
-Generate {num_questions} {difficulty} multiple-choice questions on the topic "{topic}".
-Each question must have exactly 4 options (A, B, C, D), and indicate the correct answer.
-For each question, also include its difficulty level.
-Provide only the questions in the specified format below, numbered from 1 to {num_questions}, without any introductory or concluding remarks.
+Generate 1 {difficulty} multiple-choice question on the topic "{topic}".
+The question must have exactly 4 options (A, B, C, D), and indicate the correct answer.
+Also include its difficulty level.
+Provide only the question in the specified format below, without any introductory or concluding remarks.
 
 Format:
 Question 1: ...
@@ -101,18 +101,9 @@ Difficulty: {difficulty}
 A) ...
 B) ...
 C) ...
-D) ...
-Correct Answer: ...
-
-Question 2: ...
-Difficulty: {difficulty}
-A) ...
-B) ...
 C) ...
 D) ...
 Correct Answer: ...
-
-... (up to Question {num_questions})
 """
     try:
         response = model.generate_content(prompt)
@@ -256,31 +247,30 @@ def select_questions(
 loaded_questions = load_all_questions_from_json()
 
 
-@quiz_api.get("/questions/", response_model=list[Question])
+@quiz_api.get("/questions/", response_model=Question)
 def get_questions(
-    num_questions: int = Query(10, ge=1, le=50),
     difficulty: str = Query(None, min_length=1),
 ):
-    """Retrieve a list of quiz questions based on difficulty and number requested."""
-    logging.info(
-        f"GET /questions/ request received with num_questions={num_questions}, difficulty={difficulty}"
-    )
+    """Retrieve a single quiz question based on difficulty."""
+    logging.info(f"GET /questions/ request received with difficulty={difficulty}")
 
-    selected_questions = select_questions(loaded_questions, num_questions, difficulty)
+    # Use a fixed number of 1 to select only one question
+    selected_questions = select_questions(
+        loaded_questions, num_questions=1, difficulty=difficulty
+    )
 
     if not selected_questions:
         logging.warning(
-            f"GET /questions/ failed: No questions found for criteria (difficulty: {difficulty}, count: {num_questions})."
+            f"GET /questions/ failed: No questions found for criteria (difficulty: {difficulty})."
         )
         raise HTTPException(
             status_code=404,
-            detail=f"No questions found for the specified criteria (difficulty: {difficulty}, count: {num_questions}). Consider generating more questions and saving them to {JSON_FILE_PATH}.",
+            detail=f"No questions found for the specified criteria (difficulty: {difficulty}).",
         )
 
-    logging.info(
-        f"Successfully retrieved {len(selected_questions)} questions for /questions/."
-    )
-    return selected_questions
+    logging.info(f"Successfully retrieved a single question for /questions/.")
+    # Return the single question object from the list
+    return selected_questions[0]
 
 
 @quiz_api.post("/answer/")
